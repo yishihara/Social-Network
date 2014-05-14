@@ -1,0 +1,483 @@
+241
+Gerland_U::0
+Hwa_T::1
+Ispolatov_I::2
+Maslov_S::3
+Kinjo_A::4
+Ochab_Marcinek_A::5
+Flomenbom_O::6
+Costa_L::7
+McKane_A::8
+Jain_K::9
+Krug_J::10
+Goldenfeld_N::11
+Sontag_E::12
+Frey_E::13
+Kaneko_K::14
+Krapivsky_P::15
+Brandenburg_A::16
+Piazza_F::17
+Weikl_T::18
+Lagomarsino_M::19
+Bassetti_B::20
+Klumpp_S::21
+Lipowsky_R::22
+Howard_M::23
+Benichou_O::24
+Voituriez_R::25
+Dilao_R::26
+Vilar_J::27
+Rikvold_P::28
+Evans_S::29
+Mossel_E::30
+Roch_S::31
+Koulakov_A::32
+Holme_P::33
+Wang_W::34
+Stauffer_D::35
+Domany_E::36
+Sanchez_A::37
+Cuesta_J::38
+Roca_C::39
+Shakhnovich_E::40
+Hyeon_C::41
+Thirumalai_D::42
+Deem_M::43
+Yang_Y::44
+Serva_M::45
+Melott_A::46
+Thomas_B::47
+Kamenev_A::48
+Zhang_J::49
+Pfaffelhuber_P::50
+Ao_P::51
+Schwarz_U::52
+Samal_A::53
+Krishna_S::54
+Maritan_A::55
+Chowdhury_D::56
+Echenique_P::57
+Antal_T::58
+Bruinsma_R::59
+Kenkre_V::60
+Bialek_W::61
+Cora_D::62
+Caselle_M::63
+Jeong_H::64
+Wang_B::65
+Jensen_H::66
+Iersel_L::67
+Kelk_S::68
+Okada_M::69
+Laubenbacher_R::70
+Berezovskaya_F::71
+Karev_G::72
+Li_W::73
+Phillips_R::74
+Cieplak_M::75
+Rossello_F::76
+Valiente_G::77
+Erban_R::78
+Adami_C::79
+Shalizi_C::80
+Li_Y::81
+Tuszynski_J::82
+Metzler_R::83
+Kafri_Y::84
+Nelson_D::85
+Derenyi_I::86
+Vicsek_T::87
+Cebrat_S::88
+Nunes_A::89
+Vitiello_G::90
+Novozhilov_A::91
+Colizza_V::92
+Barrat_A::93
+Barthelemy_M::94
+Vespignani_A::95
+Sander_L::96
+Jarvis_P::97
+Hernandez_Garcia_E::98
+Qian_H::99
+Yoshida_R::100
+Cortes_J::101
+Torres_J::102
+Tannenbaum_E::103
+Sun_J::104
+Tanase_Nicola_S::105
+Warren_P::106
+Wolde_P::107
+Nelson_P::108
+Taormina_A::109
+Gros_C::110
+Wang_Y::111
+Orland_H::112
+Mobilia_M::113
+Zhou_T::114
+Jensen_M::115
+Sneppen_K::116
+Spagnolo_B::117
+Kessler_D::118
+Levine_H::119
+Zhang_Y::120
+Thurner_S::121
+Allen_R::122
+Barkema_G::123
+Panja_D::124
+Julicher_F::125
+Kauffman_S::126
+Bose_I::127
+Nemenman_I::128
+Vert_J::129
+Sumner_J::130
+Claussen_J::131
+Marinazzo_D::132
+Pellicoro_M::133
+Stramaglia_S::134
+Pigolotti_S::135
+Hagan_M::136
+Allman_E::137
+Rhodes_J::138
+Jost_J::139
+Wolynes_P::140
+Beerenwinkel_N::141
+Sole_R::142
+Tkacik_G::143
+Eriksson_A::144
+Copelli_M::145
+Braunstein_A::146
+Zecchina_R::147
+Szollosi_G::148
+Sengupta_A::149
+Huggins_P::150
+Matsen_F::151
+Gross_T::152
+Blasius_B::153
+Pagnani_A::154
+Weigt_M::155
+Wang_S::156
+Redner_S::157
+Straub_J::158
+Chignola_R::159
+Fabbro_A::160
+Milotti_E::161
+Destexhe_A::162
+Chen_L::163
+Zhang_L::164
+Escudero_C::165
+Hallatschek_O::166
+Berg_J::167
+Wiggins_C::168
+Carlon_E::169
+Bornholdt_S::170
+Li_M::171
+Csermely_P::172
+Jarrah_A::173
+Reichenbach_T::174
+Eguiluz_V::175
+Gutenkunst_R::176
+Myers_C::177
+Sethna_J::178
+Ritort_F::179
+Jin_Z::180
+Roy_S::181
+Paczuski_M::182
+Assaf_M::183
+Meerson_B::184
+Zamparo_M::185
+Pelizzola_A::186
+Sinha_S::187
+Gopalakrishnan_M::188
+Kaiser_M::189
+Szabo_G::190
+Demongeot_J::191
+Payan_Y::192
+Thatte_B::193
+Leenheer_P::194
+Hu_C::195
+Galla_T::196
+Chen_Y::197
+Shnerb_N::198
+Sasai_M::199
+Shea_Brown_E::200
+Yanev_N::201
+Park_S::202
+Traulsen_A::203
+Nowak_M::204
+Korn_C::205
+Holcman_D::206
+Szolnoki_A::207
+Wang_Z::208
+Rakocevic_M::209
+Barahona_M::210
+Grassberger_P::211
+Steel_M::212
+Chenu_O::213
+Vuillerme_N::214
+Fleury_A::215
+Luche_S::216
+Diemer_H::217
+Rabilloud_T::218
+Chevallet_M::219
+Chen_H::220
+Yang_J::221
+Vieville_T::222
+Imparato_A::223
+Ben_Jacob_E::224
+Kim_P::225
+Perc_M::226
+Ogryzko_V::227
+Rohlf_T::228
+Wang_J::229
+Chou_T::230
+Stephens_G::231
+Mirny_L::232
+Radulescu_R::233
+Cessac_B::234
+Airoldi_E::235
+Reidys_C::236
+Pinsault_N::237
+Hanel_R::238
+Semenov_D::239
+Cardona_G::240
+0 1 13
+1 0
+2 3 15 116
+3 2 116 54
+4
+5 117
+6
+7 189
+8
+9 10
+10 9 202
+11
+12 120 194 70 173 149
+13 166 168 174 113 0
+14 66
+15 2 58 157
+16
+17
+18 22
+19 20
+20 19
+21 22
+22 21 18
+23 107
+24 25
+25 24
+26
+27
+28
+29 151
+30 31 151 212
+31 30
+32
+33
+34 114 65 180
+35 36 56 88
+36 35
+37 38 39
+38 37 39
+39 37 38
+40 221 49
+41 42
+42 41 158 171 195
+43 104 195
+44 73
+45
+46 47
+47 46
+48 49
+49 48 73 40
+50
+51 99
+52 205
+53 54
+54 53 115 116 135 3
+55 75 135
+56 35 188 229
+57
+58 15 157 230 141 203 204
+59
+60
+61 143 128 231
+62 63
+63 62
+64 225 202
+65 34
+66 14
+67 68
+68 67
+69
+70 173 12
+71 72 91
+72 71 91
+73 49 44
+74 108
+75 55
+76 77 240
+77 76 240
+78
+79
+80
+81
+82
+83 120
+84 85
+85 84 166
+86 87 148
+87 86 148
+88 35
+89
+90
+91 72 71
+92 93 94 95
+93 92 94 95
+94 92 93 95
+95 92 93 94
+96
+97 130
+98 175 135
+99 104 51
+100 150
+101 102
+102 101
+103
+104 43 99
+105 106 107 122
+106 105 107
+107 105 106 122 23
+108 74
+109
+110
+111 156
+112
+113 174 13
+114 34
+115 54 116 135
+116 54 115 170 3 2 135
+117 5
+118 119 198
+119 118 224
+120 12 158 83
+121 238
+122 107 105
+123 124 169
+124 123
+125 188
+126
+127
+128 168 61
+129
+130 97
+131
+132 133 134
+133 132 134
+134 132 133
+135 55 54 115 98 116
+136
+137 138
+138 137
+139
+140
+141 58 203 204
+142
+143 61
+144
+145
+146 147 154
+147 146 154 155
+148 86 87
+149 12
+150 100
+151 29 212 30
+152 153
+153 152
+154 155 147 146
+155 154 147
+156 111 172
+157 58 15
+158 120 42
+159 160 161
+160 159 161
+161 159 160
+162 222
+163
+164 208
+165
+166 13 168 85
+167
+168 166 13 128
+169 123
+170 116
+171 195 42
+172 156
+173 70 12
+174 113 13
+175 98
+176 177 178
+177 176 178
+178 176 177
+179
+180 34
+181
+182 211
+183 184
+184 183
+185 186 223
+186 185 223
+187
+188 125 56
+189 7
+190 207 226
+191 192 213 214 215 237
+192 191 213 214 215 237
+193 212
+194 12
+195 43 171 42
+196
+197
+198 118
+199
+200
+201
+202 225 64 10
+203 204 141 58
+204 203 141 58
+205 52
+206
+207 190 226
+208 164
+209
+210
+211 182
+212 151 30 193
+213 191 192 214 215 237
+214 213 215 191 192 237
+215 214 213 191 192 237
+216 217 218 219
+217 216 218 219
+218 216 217 219
+219 218 216 217
+220
+221 40
+222 162 234
+223 186 185
+224 119
+225 64 202
+226 207 190
+227
+228
+229 56
+230 58
+231 61
+232
+233
+234 222
+235
+236
+237 214 213 191 192 215
+238 121
+239
+240 76 77

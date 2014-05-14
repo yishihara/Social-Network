@@ -1,0 +1,965 @@
+482
+Moffat_J::0
+Nester_J::1
+Sorkin_R::2
+Kodama_H::3
+Ishihara_H::4
+Menotti_P::5
+Seminara_D::6
+Matos_T::7
+Englert_F::8
+Reznik_B::9
+Rovelli_C::10
+Campanelli_M::11
+Lousto_C::12
+Malec_E::13
+Murchadha_N::14
+Chrusciel_P::15
+Vaz_C::16
+Witten_L::17
+Cornish_N::18
+Brodbeck_O::19
+Straumann_N::20
+Schmid_C::21
+Gasperini_M::22
+Maggiore_M::23
+Peldan_P::24
+Kastrup_H::25
+Thiemann_T::26
+Copeland_E::27
+Liddle_A::28
+Lyth_D::29
+Wands_D::30
+Visinescu_M::31
+Volkov_M::32
+Ross_S::33
+Carroll_S::34
+Ortiz_M::35
+Page_D::36
+Szabados_L::37
+Pullin_J::38
+Mazzitelli_F::39
+Zurek_W::40
+Vanzo_L::41
+Hehl_F::42
+Mielke_E::43
+Clement_G::44
+Flanagan_E::45
+Major_S::46
+Smolin_L::47
+Husain_V::48
+Brady_P::49
+Capovilla_R::50
+Guven_J::51
+Martin_J::52
+Obregon_O::53
+Socorro_J::54
+Cavaglia_M::55
+Filippov_A::56
+Marugan_G::57
+Kiefer_C::58
+Zeh_H::59
+Hooft_G::60
+Price_R::61
+Vilenkin_A::62
+Sasaki_M::63
+Plebanski_J::64
+Padmanabhan_T::65
+Steinhardt_P::66
+Tanaka_T::67
+Landi_G::68
+Matone_M::69
+Cvetic_M::70
+Mikovic_A::71
+Linde_A::72
+Rendall_A::73
+Borde_A::74
+Dereli_T::75
+Kitada_H::76
+Garay_L::77
+Anninos_P::78
+Brandt_S::79
+Masso_J::80
+Seidel_E::81
+Smarr_L::82
+Suen_W::83
+Walker_P::84
+Novello_M::85
+Verdaguer_E::86
+Corley_S::87
+Jacobson_T::88
+Brill_D::89
+Droz_S::90
+Israel_W::91
+Morsink_S::92
+Finn_L::93
+Garriga_J::94
+Wald_R::95
+Korotkin_D::96
+Veneziano_G::97
+Schwarz_D::98
+Matschull_H::99
+Avramidi_I::100
+Gonzalez_Diaz_P::101
+Ashtekar_A::102
+Shepley_L::103
+Louko_J::104
+Marolf_D::105
+Hu_B::106
+Diosi_L::107
+Halliwell_J::108
+Kraus_P::109
+Reula_O::110
+Damour_T::111
+Esposito_Farese_G::112
+Dolgov_A::113
+Bronnikov_K::114
+Konstantinov_M::115
+Melnikov_V::116
+Ivashchuk_V::117
+Kunstatter_G::118
+Kofman_L::119
+Polarski_D::120
+Starobinsky_A::121
+Salopek_D::122
+Kaloper_N::123
+Balachandran_A::124
+Bimonte_G::125
+Lizzi_F::126
+Larsen_F::127
+Wilczek_F::128
+Ellis_J::129
+Mavromatos_N::130
+Nanopoulos_D::131
+Hotta_M::132
+Behrndt_K::133
+Lowe_D::134
+Hellaby_C::135
+Dray_T::136
+Berger_B::137
+Brown_D::138
+Moniz_P::139
+Balasubramanian_R::140
+Dhurandhar_S::141
+Hartle_J::142
+Moss_I::143
+Chambers_C::144
+Garfinkle_D::145
+Matsas_G::146
+Woolgar_E::147
+Sardanashvily_G::148
+Massar_S::149
+Parentani_R::150
+Lombardo_F::151
+Torre_C::152
+Rainer_M::153
+Tanimoto_M::154
+Barvinsky_A::155
+Frolov_V::156
+Zelnikov_A::157
+Schmidt_H::158
+Mann_R::159
+Lemos_J::160
+Cook_G::161
+Elst_H::162
+Lidsey_J::163
+Tavakol_R::164
+Fursaev_D::165
+Miele_G::166
+Vassilevich_D::167
+Gambini_R::168
+Loll_R::169
+Gusev_Y::170
+Vilkovisky_G::171
+Kamenshchik_A::172
+Durrer_R::173
+Sakellariadou_M::174
+Allen_B::175
+Kallosh_R::176
+Ortin_T::177
+Kiritsis_E::178
+Dimakis_A::179
+Barrett_J::180
+Deser_S::181
+Chamblin_A::182
+Gibbons_G::183
+Dunsby_P::184
+Ellis_G::185
+Creighton_J::186
+Bruni_M::187
+Zhuk_A::188
+Maison_D::189
+Soo_C::190
+Eardley_D::191
+York_J::192
+Isham_C::193
+Coley_A::194
+Joshi_P::195
+Singh_T::196
+Bento_M::197
+Bertolami_O::198
+Giulini_D::199
+Carlip_S::200
+Pietri_R::201
+Lusanna_L::202
+Abrahams_A::203
+Koike_T::204
+Hosoya_A::205
+Balasin_H::206
+Saa_A::207
+Hayward_S::208
+Anderson_A::209
+Grishchuk_L::210
+Shapiro_S::211
+Teukolsky_S::212
+Levin_J::213
+Tagoshi_H::214
+Misner_C::215
+Rosu_H::216
+Kaiser_D::217
+Ambjorn_J::218
+Anderson_P::219
+Piran_T::220
+Kempf_A::221
+Jackiw_R::222
+Myers_R::223
+Shinkai_H::224
+Maeda_K::225
+Bicak_J::226
+Hajicek_P::227
+Higuchi_A::228
+Torii_T::229
+Hollmann_H::230
+Will_C::231
+Bekenstein_J::232
+Lewandowski_J::233
+Strobl_T::234
+Whelan_J::235
+Miller_W::236
+Matzner_R::237
+Dadhich_N::238
+Patel_L::239
+Bartolo_C::240
+Griego_J::241
+Varadarajan_M::242
+Wanas_M::243
+Spergel_D::244
+Vega_H::245
+Sanchez_N::246
+Cadoni_M::247
+Unruh_W::248
+Virbhadra_K::249
+Zanelli_J::250
+Lake_K::251
+Mannheim_P::252
+Aichelburg_P::253
+Obukhov_Y::254
+Anastopoulos_C::255
+Schunck_F::256
+Brandenberger_R::257
+Emparan_R::258
+Lee_H::259
+Bizon_P::260
+Calzetta_E::261
+Gegenberg_J::262
+Coule_D::263
+Guendelman_E::264
+Kaganovich_A::265
+Katz_J::266
+Sriramkumar_L::267
+Ghosh_A::268
+Mitra_P::269
+Leung_P::270
+Young_K::271
+Kalmykov_M::272
+Pronin_P::273
+Horowitz_G::274
+Siino_M::275
+Mashkevich_V::276
+Hawking_S::277
+Kent_A::278
+Visser_M::279
+Romano_J::280
+Shibata_M::281
+Deruelle_N::282
+Galtsov_D::283
+Youm_D::284
+Garcia_Compean_H::285
+Fewster_C::286
+Rosquist_K::287
+Baez_J::288
+Hortacsu_M::289
+Ozdemir_N::290
+Hochberg_D::291
+Ford_L::292
+Roman_T::293
+Lesame_W::294
+Mignemi_S::295
+Gregory_R::296
+Townsend_P::297
+Kim_Y::298
+Larsen_A::299
+Poisson_E::300
+Rosales_J::301
+Wang_A::302
+Santos_N::303
+Letelier_P::304
+Scheel_M::305
+Friedman_J::306
+Langlois_D::307
+Sathyaprakash_B::308
+Souza_M::309
+Heusler_M::310
+Bengtsson_I::311
+Fujii_Y::312
+Nambu_Y::313
+Taruya_A::314
+Carter_B::315
+Bruegmann_B::316
+Svaiter_N::317
+Sen_A::318
+Corichi_A::319
+Legare_J::320
+Kowalski_Glikman_J::321
+Reisenberger_M::322
+Linet_B::323
+Camarda_K::324
+Tobias_M::325
+Bona_C::326
+Stela_J::327
+Hirschmann_E::328
+Anderson_J::329
+Lau_E::330
+Satoh_Y::331
+Volovich_I::332
+Burko_L::333
+Ori_A::334
+Gundlach_C::335
+Holst_S::336
+Scialom_D::337
+Tsuda_M::338
+Shirafuji_T::339
+Blanchet_L::340
+Iyer_B::341
+Barrow_J::342
+Brustein_R::343
+Giovannini_M::344
+Mukhanov_V::345
+Babourova_O::346
+Frolov_B::347
+Newman_E::348
+Frittelli_S::349
+Kummer_W::350
+Kokkotas_K::351
+Madore_J::352
+Kanti_P::353
+Bose_S::354
+Parker_L::355
+Meissner_K::356
+Kar_S::357
+Kojima_Y::358
+Andersson_N::359
+Dabrowski_M::360
+Kang_G::361
+Liberati_S::362
+Zapatrin_R::363
+Bonazzola_S::364
+Gourgoulhon_E::365
+Anandan_J::366
+Uggla_C::367
+Winstanley_E::368
+Kleihaus_B::369
+Kunz_J::370
+Sood_A::371
+Esposito_G::372
+Maluf_J::373
+Hiscock_W::374
+Buonanno_A::375
+Ungarelli_C::376
+Kusenko_A::377
+Clayton_M::378
+Paiva_F::379
+Venturi_G::380
+Boisseau_B::381
+Odintsov_S::382
+Prasanna_A::383
+Modanese_G::384
+Amelino_Camelia_G::385
+Henneaux_M::386
+Stornaiolo_C::387
+Chimento_L::388
+Jakubi_A::389
+Krasnov_K::390
+Reboucas_M::391
+Teixeira_A::392
+Bousso_R::393
+Kim_S::394
+Sakai_N::395
+Choquet_Bruhat_Y::396
+Morales_Tecotl_H::397
+Moretti_V::398
+Solodukhin_S::399
+Kloesch_T::400
+Nakao_K::401
+Shiraishi_K::402
+Mansouri_R::403
+Okamura_T::404
+Nakamura_T::405
+Chiba_T::406
+Neville_D::407
+Krasnikov_S::408
+Garattini_R::409
+Chicone_C::410
+Mashhoon_B::411
+Retzloff_D::412
+Suzuki_H::413
+Takasugi_E::414
+Hwang_J::415
+Soda_J::416
+Caldwell_R::417
+Anchordoqui_L::418
+Bergliaffa_S::419
+Vucetich_H::420
+Buchert_T::421
+Easther_R::422
+Turyshev_S::423
+Mazur_P::424
+Volovik_G::425
+Sudarsky_D::426
+Gleiser_R::427
+Kay_B::428
+Giachetta_G::429
+Welling_M::430
+Ashworth_M::431
+Abramo_L::432
+Liebl_H::433
+Perjes_Z::434
+Maartens_R::435
+Seriu_M::436
+Casadio_R::437
+Torres_D::438
+Feinstein_A::439
+Ibanez_J::440
+Fabris_J::441
+Matarrese_S::442
+Oliveira_H::443
+Dzhunushaliev_V::444
+Cooperstock_F::445
+Faraoni_V::446
+Jhingan_S::447
+Banados_M::448
+Zapata_J::449
+Edgar_S::450
+Zimdahl_W::451
+Makela_J::452
+Vacaru_S::453
+Samtleben_H::454
+Pavon_D::455
+Fabbri_A::456
+Tsamis_N::457
+Woodard_R::458
+Mostafazadeh_A::459
+Jaekel_M::460
+Reynaud_S::461
+Ahluwalia_D::462
+Choptuik_M::463
+Laguna_P::464
+Papadopoulos_P::465
+Chakrabarti_S::466
+Das_S::467
+Vieira_W::468
+Ishibashi_A::469
+Capozziello_S::470
+Hoogen_R::471
+Requardt_M::472
+Gromov_A::473
+Cruz_J::474
+Navarro_Salas_J::475
+Soh_K::476
+Yee_J::477
+Goy_F::478
+Herrera_L::479
+Ferraris_M::480
+Francaviglia_M::481
+0 18 320
+1
+2 180 236 147 242 104
+3 4
+4 3 416 404
+5 6
+6 5 385
+7 64 285
+8 9 149 150
+9 8
+10 201 47 349 348 68 322
+11 12
+12 11 246 299 61 39
+13 14
+14 13 51
+15 137 95 73
+16 17
+17 16
+18 0 213 244 183
+19 20 32 310
+20 19 32 310 337
+21 98
+22 97 343 344 345 356 23
+23 375 376 22 97
+24 311 336
+25 26
+26 25 102 233 105
+27 28 29 30 163
+28 27 29 30 163
+29 27 28 30
+30 27 28 29 422 225 72
+31
+32 19 20 283 310
+33 277 274 159
+34 35 36
+35 34 36
+36 34 35
+37
+38 61 168 240 241 78 81 83 53 427 335 203 79
+39 151 12
+40 464
+41 398
+42 43 254
+43 42 254 256
+44 283
+45 95
+46 47
+47 46 190 10
+48
+49 144 90 91 92 464
+50 51 53
+51 50 14
+52
+53 54 50 168 38
+54 53 216
+55 56 247
+56 55
+57 77 101
+58 59 199
+59 58 199
+60
+61 38 280 78 81 83 203 427 79 12
+62 74 111 94
+63 67 214 281 300
+64 7 285
+65 267
+66 231
+67 63 281 214 374
+68 124 125 126 10
+69
+70 284
+71 474 475
+72 119 121 176 30 345
+73 110 15
+74 62
+75
+76
+77 101 57
+78 79 80 81 82 83 84 324 325 61 38 203
+79 78 80 81 82 83 84 203 61 38
+80 78 79 81 82 83 84 324 325 326 327
+81 78 79 80 82 83 84 324 325 326 327 61 38 203
+82 78 79 80 81 83 84
+83 78 79 80 81 82 84 270 271 324 325 61 38
+84 78 79 80 81 82 83
+85
+86
+87 88
+88 87 361 223
+89 219
+90 91 92 49
+91 90 92 381 49 253 156 399
+92 90 91 49
+93
+94 62
+95 228 15 248 45 428
+96 454
+97 22 343 344 345 356 23
+98 21
+99
+100
+101 77 57
+102 105 169 242 233 26 319 226
+103
+104 105 199 354 355 2 452
+105 104 102 142 233 26 274
+106 261
+107 108
+108 107 255
+109 128
+110 73 349
+111 112 340 341 231 62
+112 111
+113
+114 115 116 441
+115 114 116
+116 114 115 117 188
+117 116 188
+118 262 155 234
+119 72 121
+120 121
+121 120 119 72
+122
+123 223
+124 125 68 126
+125 124 68 126
+126 124 125 68 166 130
+127 128
+128 127 109
+129 130 131 368 385
+130 129 131 368 353 385 126
+131 129 130 368 385
+132
+133 176
+134 156 274
+135 136 185
+136 135 185
+137 15 145
+138
+139 198
+140 141 308
+141 140 308
+142 105 434 236
+143 144
+144 143 49 464
+145 137
+146 426 228
+147 2
+148 429
+149 8 150
+150 8 149 220 266
+151 39
+152 280
+153 188 158
+154 204 205
+155 156 157 170 171 172 399 118
+156 155 157 134 299 165 91 399
+157 155 156 165
+158 153 295
+159 186 200 262 33 399
+160
+161 203 211 212 305
+162 163 164 184 185 367 294 435 187
+163 162 164 28 27
+164 162 163 184
+165 166 156 157
+166 165 126 372 387
+167 433 350
+168 38 240 241 53
+169 102
+170 155 171
+171 155 170
+172 155 372
+173 174
+174 173 441
+175 428 343 417
+176 177 183 72 133
+177 176
+178
+179
+180 236 2
+181 386
+182 183 417
+183 182 176 274 297 417 467 18
+184 185 187 162 164 294
+185 184 294 162 136 135 367 435
+186 159
+187 184 442 162 367
+188 153 117 116
+189
+190 47
+191 328 274
+192 396 203 209
+193 227
+194 471 435
+195 196 249 447 445
+196 195 447 445
+197 198
+198 197 139
+199 58 59 104
+200 262 159
+201 202 10
+202 201
+203 161 211 212 209 396 192 61 78 79 38 81
+204 154 205 469 275
+205 204 154
+206 253
+207
+208
+209 203 396 192
+210
+211 203 212 305 161
+212 203 211 305 161
+213 18
+214 63 281 67
+215
+216 54
+217
+218
+219 374 89
+220 150 307
+221
+222 259
+223 88 361 274 123
+224 225 395
+225 224 229 395 422 30 298 469
+226 227 228 102
+227 226 228 193
+228 226 227 95 306 286 146 426
+229 225
+230
+231 66 340 111 341 300
+232 345
+233 102 105 26
+234 400 262 118
+235
+236 237 180 2 142
+237 236 464
+238 239
+239 238
+240 241 168 38
+241 240 168 38
+242 102 2 280
+243
+244 18
+245 246 299
+246 245 12 299
+247 55 295
+248 95
+249 447 195
+250 448
+251
+252
+253 206 91
+254 43 42 256
+255 108
+256 43 254
+257 345 432
+258
+259 222
+260 463
+261 106
+262 118 200 159 234
+263
+264 265
+265 264
+266 150 282
+267 65
+268 269
+269 268
+270 83 271
+271 270 83
+272 273
+273 272
+274 277 33 183 297 223 105 191 318 134
+275 469 204
+276
+277 274 33 393
+278
+279 300
+280 61 152 242
+281 63 214 67
+282 307 345 266
+283 32 44 304
+284 70
+285 7 64
+286 228
+287 367
+288
+289 290
+290 289
+291
+292 293 317
+293 292
+294 184 185 162 367 435
+295 247 158
+296
+297 183 274
+298 395 225
+299 246 245 156 360 12
+300 63 231 279
+301
+302 303 304 379 443
+303 302 479 379
+304 302 468 283
+305 211 212 161
+306 228
+307 282 220 315
+308 140 141
+309
+310 19 20 32
+311 336 24
+312
+313 314
+314 313
+315 307
+316
+317 292
+318 274
+319 102 449
+320 0
+321 356
+322 10
+323 381
+324 78 80 81 83 325
+325 78 324 80 81 83
+326 327 80 81
+327 326 80 81
+328 191
+329 330 423
+330 329 423
+331
+332 480 481
+333 334
+334 333
+335 38
+336 311 24
+337 20
+338 339
+339 338
+340 111 341 231
+341 340 111 231 351
+342 360
+343 22 344 345 97 175
+344 343 22 345 97 356
+345 343 22 344 97 282 232 432 257 72
+346 347
+347 346
+348 349 10
+349 348 110 10
+350 433 167
+351 358 359 341
+352
+353 130 368
+354 355 104
+355 354 104
+356 22 344 97 321
+357
+358 359 351
+359 358 351
+360 299 342
+361 88 223
+362
+363
+364 365
+365 364
+366
+367 287 162 294 185 435 187
+368 130 353 129 131
+369 370 371
+370 369 371
+371 369 370
+372 172 387 397 166
+373
+374 219 67
+375 23 376
+376 375 23
+377
+378
+379 302 391 392 479 303
+380 437
+381 91 323
+382
+383
+384
+385 6 129 130 131
+386 181
+387 372 166
+388 389
+389 388
+390
+391 392 379
+392 391 379
+393 277
+394 394 476 477
+395 224 225 298
+396 192 203 209
+397 372
+398 41
+399 155 156 91 159
+400 234
+401 405 406
+402
+403
+404 4
+405 401 406
+406 405 401 416
+407
+408
+409
+410 411 412
+411 410 412
+412 410 411
+413 414
+414 413
+415
+416 4 406
+417 182 183 175
+418 419 420 438
+419 418 420 438
+420 418 419 438
+421
+422 225 30
+423 329 330
+424
+425
+426 146 228
+427 61 38
+428 175 95
+429 148
+430
+431
+432 345 257
+433 350 167
+434 142
+435 194 471 162 367 294 185 451
+436
+437 380
+438 418 420 419
+439 440
+440 439
+441 174 114
+442 187
+443 302
+444
+445 446 447 195 196
+446 445
+447 249 195 196 445
+448 250
+449 319
+450
+451 455 435
+452 104
+453
+454 96
+455 451
+456
+457 458
+458 457
+459
+460 461
+461 460
+462
+463 260
+464 465 40 49 144 237
+465 464
+466
+467 183
+468 304
+469 204 275 225
+470
+471 194 435
+472
+473
+474 475 71
+475 474 71
+476 394 477
+477 394 476
+478
+479 379 303
+480 481 332
+481 480 332
