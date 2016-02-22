@@ -9,7 +9,7 @@ vpath
 	g++ $(INC_DIR) -O2 -fopenmp -c src/$*.cpp
 	
 main: $(globjects)
-	g++ -o main $(INC_DIR) $(globjects) -lglut -fopenmp
+	g++ -o main $(INC_DIR) $(globjects) -lglut -fopenmp -lGL
 
 clean:
 	rm $(globjects) main
