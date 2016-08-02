@@ -34,7 +34,8 @@ float yaxis = 0.0;
 int width = 800, height = 600;
 int flagSpring = 0;
 int node=-1;
-void *font = GLUT_BITMAP_TIMES_ROMAN_24;
+//void *font = GLUT_BITMAP_TIMES_ROMAN_24;
+void *font = GLUT_BITMAP_HELVETICA_18;
 int flagNew = 0;
 float kinetic = 0;
 Graph tempg;
@@ -139,7 +140,8 @@ void drawText(double x, double y, std::string text, void *ft){
 	glColor3f(0,0,0.0);
 	cvtAxis(10,50,x,y);
 	glRasterPos2f(x,y);
-	glutBitmapString(font, reinterpret_cast<const unsigned char*>(text.c_str()));
+	//glutBitmapString(font, reinterpret_cast<const unsigned char*>(text.c_str()));
+    glutBitmapString(font, (const unsigned char*)text.c_str());
 }
 
 //display graph

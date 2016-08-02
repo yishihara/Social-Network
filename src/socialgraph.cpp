@@ -144,7 +144,7 @@ void SocialGraph::attractiveForce(Graph temp_g){
 }
 
 float SocialGraph::limitForce(){
-	float dt = 1.0;
+	float dt = .2;
 	float damping = 0.01;
 	float kinetic = 0.0;
 
