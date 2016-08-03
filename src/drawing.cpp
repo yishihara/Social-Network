@@ -41,13 +41,13 @@ float kinetic = 0;
 Graph tempg;
 
 void cvtAxis(int x1, int y1, double &x2, double &y2){
-	x2 = ((double)x1/(double)width) * (2 * (double)width/zoom) + xaxis + (-width/zoom);
-	y2 = ((double)(height - y1)/(double)height) * (2 * (double)height/zoom) + yaxis + (-height/zoom);
+    x2 = ((double)x1/(double)width) * (2 * (double)width/zoom) + xaxis + ((double)-width/zoom);
+	y2 = ((double)(height - y1)/(double)height) * (2 * (double)height/zoom) + yaxis + ((double)-height/zoom);
 }
 
 void drawVertices(Nodes nodes, std::vector<double> vbc){
 	for(int i=0; i<nodes.size(); i++){
-			glPointSize(vbc[i]);
+        glPointSize(vbc[i]);
 		//glPointSize(5);
 		glColor3f(nodes[i].r, nodes[i].g, nodes[i].b);
 		glBegin(GL_POINTS);
@@ -190,6 +190,17 @@ void display(void){
 	glutSwapBuffers();
 }
 
+void windowReshapeFunc(GLint newWidth, GLint newHeight) {
+  glViewport( 0, 0, newWidth, newHeight );
+  glMatrixMode( GL_PROJECTION );
+  glLoadIdentity();
+  glOrtho(xaxis + (-width / zoom), xaxis + (width / zoom), yaxis + (-height / zoom), yaxis + (height / zoom), -1.0, 1.0);
+
+  width = newWidth;
+  height = newHeight;
+  glutPostRedisplay();
+}
+
 //display when idle
 void idle(void){
 	if(flagSpring > 0){
@@ -224,8 +235,13 @@ void mouse(int button, int state, int x, int y){
 				double x1, y1;
 				cvtAxis(x, y, x1, y1);
 				node = findNode(x1, y1);
+
+    std::cout << "w/h: " << width << " " << height << " " << glutGet(GLUT_WINDOW_WIDTH) << " " << glutGet(GLUT_WINDOW_HEIGHT) << std::endl;
+    std::cout << "x/y: " << x << " " << y << " " << x1 << " " << y1 << std::endl;
+
 				if(node != -1){
 					std::cout << mgraph.getName()[node] << std::endl;
+                    std::cout << "node: " << mgraph.getNodes()[node].x << " " << mgraph.getNodes()[node].y << std::endl;
 				}
 			}
 			break;
@@ -247,10 +263,10 @@ void motion(int x, int y){
 void normalkeys(unsigned char key, int x, int y){
 	switch(key){
 		case 'i':
-			zoom += zoom*.1;
+			zoom *= 1.1;
 			break;
 		case 'o':
-			zoom -= zoom*.1;
+			zoom /= 1.1;
 			break;
 		case 'q':
 			exit(0);
@@ -414,6 +430,7 @@ int mainDrawing(int argc, char *argv[]){
 
 	//display function
 	glutDisplayFunc(display);
+    glutReshapeFunc(windowReshapeFunc);
 	//glutIdleFunc(idle);
 
 	glutMouseFunc(mouse);

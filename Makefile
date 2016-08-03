@@ -1,15 +1,26 @@
 INC_DIR = -I include
+CC = g++
 
+BDIR = build
+SDIR = src
 
-globjects = filehandler.o graph.o socialgraph.o drawing.o main.o
+UNAME_S := $(shell uname -s)
+ifeq ($(UNAME_S), Linux)
+	GL = -lglut -lGL
+endif
+ifeq ($(UNAME_S), Darwin)
+	GL = -framework OpenGL -framework GLUT
+	INC_DIR += -I/usr/local/include
+endif
 
-vpath 
+_OBJS = filehandler.o graph.o socialgraph.o drawing.o main.o
+OBJS = $(patsubst %, $(BDIR)/%, $(_OBJS))
 
-%.o : src/%.cpp
-	g++ $(INC_DIR) -O2 -fopenmp -c src/$*.cpp
+$(BDIR)/%.o : $(SDIR)/%.cpp
+	$(CC) $(INC_DIR) -O2 -fopenmp -c -o $@ $<
 	
-main: $(globjects)
-	g++ -o main $(INC_DIR) $(globjects) -lglut -fopenmp -lGL
+main: $(OBJS)
+	$(CC) -o main $(INC_DIR) $(OBJS) -fopenmp $(GL)
 
 clean:
-	rm $(globjects) main
+	rm $(OBJS) main
