@@ -1,2 +1,4 @@
 __pycache__/*
 build/*
+main
+.ycm_extra_conf.py*
