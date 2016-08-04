@@ -236,12 +236,8 @@ void mouse(int button, int state, int x, int y){
 				cvtAxis(x, y, x1, y1);
 				node = findNode(x1, y1);
 
-    std::cout << "w/h: " << width << " " << height << " " << glutGet(GLUT_WINDOW_WIDTH) << " " << glutGet(GLUT_WINDOW_HEIGHT) << std::endl;
-    std::cout << "x/y: " << x << " " << y << " " << x1 << " " << y1 << std::endl;
-
 				if(node != -1){
 					std::cout << mgraph.getName()[node] << std::endl;
-                    std::cout << "node: " << mgraph.getNodes()[node].x << " " << mgraph.getNodes()[node].y << std::endl;
 				}
 			}
 			break;
